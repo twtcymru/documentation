@@ -14,8 +14,8 @@ Limitations are, in ascending order of severity:
 No files from the remote server will be processed locally. That includes avatars, headers, emojis and media attachments. Accounts can be found and followed. Messages will still be delivered.
 * **Silence** \
 All past and future accounts from the remote server are silenced and will not be visible in public timelines, but can be found and followed. Followed accounts will show up in the home timeline of the member following those accounts.
-* **Suspend \
-**All past and future accounts from the server are disconnected and undeliverable. No content from the remote server will be stored locally except for usernames.
+* **Suspend** \
+All past and future accounts from the server are disconnected and undeliverable. No content from the remote server will be stored locally except for usernames.
 
 A server that consistently delivers untagged nudity, gore, imagery and video that is required to be tagged according to our Code of Conduct, will be set to Reject Media. Accounts on that server can still be found and followed.
 
