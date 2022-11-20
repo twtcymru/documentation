@@ -88,8 +88,7 @@ In all cases: is your post divisive and inflammatory? Is it intended to shock pe
 
 Notwithstanding, aggressive rage has no home on our service. While anger and frustration are justifiable for many, this is not the forum for expressing rage and aggression. Content that is marked as Disallowed in this policy will be removed regardless of the use of CW functionality.
 
-| Topic
-Common CW Headlines
+| Topic | Common CW Headlines |
 | ------------- | ------------- |
 | Politics | ukpol, walpol, tory, uspol, trump |
 | Sex and Sexual Content | sex, sexual content, nudity |
