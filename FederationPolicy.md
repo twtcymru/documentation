@@ -24,3 +24,5 @@ A server that consistently fails to moderate their general membership and can be
 A server that consistently fails to moderate their general membership and can be demonstrated to host a preponderance of accounts that would contravene our Code of Conduct will be silenced. Accounts can be found and followed, although individual accounts will be Suspended.
 
 A server that willingly, knowingly hosts members that publicly and repeatedly exhibit hate, discrimination and/or harrassment will be Suspended. No accounts can be found or followed, no messages will be delivered.
+
+A server that willingly, knowingly hosts members that publicly and repeatedly allow content illegal in the United Kingdom, the European Union and its member states, or the United States of America will be Suspended. No accounts can be found or followed, no messages will be delivered.
