@@ -31,8 +31,8 @@ The following news sources have been reviewed and approved for an account on too
 
 | Display Name  | Profile |
 | ------------- | ------------- |
+| Bylines Cymru | https://toot.wales/@BylinesCymru |
 | Golwg360 | https://toot.wales/@golwg |
 | Nation Cymru | https://toot.wales/@NationCymru |
-| Swansea Bay News | https://toot.wales/@SwanseaBayNews |
-| Bylines Cymru | https://toot.wales/@BylinesCymru |
 | North Wales Storms | https://toot.wales/@Storms |
+| Swansea Bay News | https://toot.wales/@SwanseaBayNews |
