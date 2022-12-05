@@ -29,18 +29,13 @@ Members who contravene this Code of Conduct may be subject to content deletion, 
 
 ### The following types of content are disallowed and will be removed:
 
-
-
 * Excessive advertising, or accounts used solely for advertising with no community engagement
 * Accounts with no profile picture (“avatar”) and little or no engagement
 * Uncurated bots
 * Untagged nudity, pornography or sexually explicit content, including artistic depictions
 * Untagged gore or extremely graphic violence, including artistic depictions
 
-
 ### The following types of content are disallowed and will be removed, and may result in revocation of access to the service:
-
-
 
 * Racism or advocation of racism
 * Sexism or advocation of sexism
@@ -49,14 +44,12 @@ Members who contravene this Code of Conduct may be subject to content deletion, 
 * Hateful terms, symbols, imagery, and shorthand
 * False or misleading information that may cause or lead to harm
 
-
 ### The following types of content are disallowed and will be removed, and will result in revocation of access to the service:
-
-
 
 * Sexual depictions of children, fictional or real
 * Content illegal in the United Kingdom, the European Union and its member states, or the United States of America
 * Content or conduct promoting the ideology of National Socialism
+* Content that can increase the risk that its audience will condone or commit violence against members of another group
 * Any conduct intended to stalk or harass other users, or to impede other users from using the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions is also disallowed. This includes, but is not limited to:
     * Continuing to engage in conversation with a user that has specifically requested for said engagement to cease and desist is considered harassment, regardless of privacy tools employed.
     * Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called "doxing" or "dropping dox").
