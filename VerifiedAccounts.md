@@ -7,7 +7,9 @@ To avoid confusion and to ensure healthy engagement on oure services we may veri
 | Comisiwn Seilwaith Cenedlaethol Cymru / National Infrastructure Commission for Wales | https://toot.wales/@nicw |
 | Eisteddfod | https://toot.wales/@eisteddfod |
 | Geiriadur Prifysgol Cymru | https://toot.wales/@geiriadurGPC |
+| Golwg | https://toot.wales/@golwg |
 | Leanne Wood | https://toot.wales/@leannewood |
+| Nation Cymru | https://toot.wales/@NationCymru |
 | Plaid Cymru | https://toot.wales/@PlaidCymru |
 | Tîm Achub Mynydd Llanberis | https://toot.wales/@TAM_Llanberis |
 | Wales Centre for Public Policy / Canolfan Polisi Cyhoeddus Cymru | https://toot.wales/@WCfPP |
