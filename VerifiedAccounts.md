@@ -14,3 +14,4 @@ To avoid confusion and to ensure healthy engagement on oure services we may veri
 | Tîm Achub Mynydd Llanberis | https://toot.wales/@TAM_Llanberis |
 | Wales Centre for Public Policy / Canolfan Polisi Cyhoeddus Cymru | https://toot.wales/@WCfPP |
 | Wrexham AFC | https://toot.wales/@Wrexham_afc |
+| Ysgol y Gymraeg Prifysgol Caerdydd / School of Welsh Cardiff University | https://toot.wales/@ysgolygymraeg |
