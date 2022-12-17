@@ -27,7 +27,7 @@ Automatic mirroring from Facebook or Instagram is forbidden.
 If you need additional help getting set up on toot.wales email press@toot.wales
 
 ## Approved News Source Accounts
-The following news sources have been reviewed and approved for an account on toot.wales
+The following news sources have been reviewed and approved to post news stories directly to the local feed on toot.wales
 
 | Display Name  | Profile |
 | ------------- | ------------- |
@@ -36,3 +36,4 @@ The following news sources have been reviewed and approved for an account on too
 | Nation Cymru | https://toot.wales/@NationCymru |
 | North Wales Storms | https://toot.wales/@Storms |
 | Swansea Bay News | https://toot.wales/@SwanseaBayNews |
+| Wrexham.com | https://toot.wales/@wrexhamdotcom |
