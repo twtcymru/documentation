@@ -7,7 +7,8 @@
 
 ##Community Council
 
-- Sana Malik (invited)
+- Carol Adams
+- Sana Malik
 -
 -
 -
@@ -20,5 +21,5 @@
 - @chriswere
 - @gethin76
 - @gomez
-- lexicaleigh
+- @lexicaleigh
 - @TCMuffin
