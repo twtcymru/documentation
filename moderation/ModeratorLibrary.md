@@ -34,3 +34,4 @@ Moderation. Proc. ACM Hum.-Comput. Interact. 5, CSCW2, Article 318 (October 2021
 ## Additional Reading
  - Why Community Moderation Matters: A Conversation with Izzy Neis and Carlos Figueiredo: https://cmxhub.com/community-moderation/
  - 7 Best Practices for Content Moderation, https://www.spectrumlabsai.com/the-blog/best-practices-for-content-moderation
+ - Facebook Abuse Standards 6.1 (2012) - NSFW, Contains explicit language and images: https://publicintelligence.net/facebook-abuse-standards/
