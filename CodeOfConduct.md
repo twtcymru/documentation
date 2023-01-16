@@ -55,7 +55,20 @@ Unsolicited direct messages or mentioned posts, accounts that follow large numbe
 
 Registration of trademarks or famous names is subject to review, and may be subject to verification. If you are or represent a notable organisation or person and wish to reclaim an account or mark please see https://github.com/tootwales/documentation/blob/main/VerifiedAccounts.md
 
-## Sensitive Content
+## Automated and Bot Content
+Bots can provide helpful updates and content. However, many members wish to interact with other members, not bots. Bot accounts must be marked as such in their account settings. This allows members to understand the account is not monitored for replies, and the bot content will not be listed in the Trending section.
+
+The following bot activity is prohibited and will be suspended from the service:
+* Wholesale redistributing or mirroring content from external services with no discernable consent
+* Mirroring or copying content from people who have not given consent
+* Automatedly posting about trending hashtags or topics
+* Posting the same content across multiple accounts
+
+The following bot activity is prohibited and accounts will be limited to followers-only:
+* Cross posting non-original content e.g. retweets from Twitter
+* Unmonitored cross poster bots and services
+
+## Sensitive Content Guidance
 
 We believe that participation in social media should be a rewarding activity, one that brings joy and connection. As such, while there are topics and content that are worthy of discussion, we hope our members are mindful of those who do not want their social media feed to be divisive, inflammatory, or upsetting.
 
@@ -108,19 +121,6 @@ Putting a CW allows the thread or post to live in the public timeline without sp
 Some Web sites have named sections. Think of your headline as describing the section for the site that this post belongs in. In no way is CW intended to discourage posting of a particular topic, it is merely a helpful way for the millions of viewers to decide what content they wish to engage with.
 
 Not including CW text will not be grounds for suspension, but please note that many of your community members will not boost or share sensitive content that is not described, limiting your content’s reach on the network. Content and accounts that do not meet our Community Code of Conduct will not be boosted, shared, or recommended by staff.
-
-## Automated and Bot Content
-Bots can provide helpful updates and content. However, many members wish to interact with other members, not bots. Bot accounts must be marked as such in their account settings. This allows members to understand the account is not monitored for replies, and the bot content will not be listed in the Trending section.
-
-The following bot activity is prohibited and will be suspended from the service:
-* Wholesale redistributing or mirroring content from external services with no discernable consent
-* Mirroring or copying content from people who have not given consent
-* Automatedly posting about trending hashtags or topics
-* Posting the same content across multiple accounts
-
-The following bot activity is prohibited and accounts will be limited to followers-only:
-* Cross posting non-original content e.g. retweets from Twitter
-* Unmonitored cross poster bots and services
 
 ## Journalism
 Tŵt is not intended to be a source of global news. Instead, it can serve as a place to discuss the news. We exist for community, not content consumption. 
