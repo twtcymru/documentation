@@ -147,7 +147,7 @@ For other Code of Conduct reports, in most instances a Moderator will contact th
 
 Members who repeatedly fail to follow the Code of Conduct may be suspended from the service.
 
-Please note that we cannot moderate all languages. At this time we are allowing European Union language accounts, but cannot accept registrations in any other language. Unsupported language accounts will be suspended with the Unsupported Language Notice and given guidance on finding an appropriate service provider; members will have 30 days to move their account to an alternative service provider. See http://mastodon-near.me/ to find a server in your country or language. If you would like to volunteer to moderate in a particular language, please email hello@toot.wales
+Please note that we cannot moderate all languages. At this time we are allowing European Union language accounts as well as accounts that make use of Punjabi, Urdu, Bengali, Gujarati, Tamil and Turkish, but cannot accept registrations in any other language. Unsupported language accounts will be suspended with the Unsupported Language Notice and given guidance on finding an appropriate service provider; members will have 30 days to move their account to an alternative service provider. See http://mastodon-near.me/ to find a server in your country or language. If you would like to volunteer to moderate in a particular language, please email hello@toot.wales
 
 ## General Principles
 Tŵt services are a public service accessible by millions. The mission is to provide a communications medium through which we all as fellow humans can freely associate and interact with one another in a warm, respectful environment, even if we disagree with one another on certain subjects.
