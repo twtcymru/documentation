@@ -81,10 +81,10 @@ _(NB: Mastodon does not track hashtags within the CW Headline. Place hashtags in
 | Live Sports, Spoilers, and Event Outcomes | WALvIRE, cricket, strictly, bake off |
 
 ### Politics
-Politics and politicking are a divisive issue for many. Politicking (i.e. activities performed to acquire or retain the power of politics), seeking someone’s vote or agreement, content about elected politicians, elections and electioneering, or party political messaging should include a CW. Please note, lived experience does not fall under this guidance. 
+Civil discourse is welcome, but politics and politicking are a divisive issue for many. Politicking (activities performed to acquire or retain the power of politics), aqggressively seeking someone’s vote or agreement, derogatory content about elected politicians, elections and electioneering, or party political messaging should include a CW. Please note, lived experience does not fall under this guidance. 
 
 ### Nudity
-Tŵt is for use by adults only, however, nudity should be marked with a CW. If staff suspects concerns with non-consensual sharing of nudity, images may be marked Sensitive or be removed.
+Tŵt is for use by adults only, however, nudity should be marked with a CW. If staff suspects concerns with non-consensual sharing of nudity, images may be marked sensitive or be removed.
 
 ### Mental Health and Health Issues
 Many people around the world suffer from all manner of health and mental health issues and may suffer harm being exposed to sensitive content. Show empathy to others by placing your individual health and mental health content behind a CW.
