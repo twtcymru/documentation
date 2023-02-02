@@ -12,7 +12,7 @@ We welcome Wales-based national and local news and weather that are relevant to 
 Automatic mirroring from Twitter is forbidden unless:
 1. the post contains the text "RT"
 2. any Twitter usernames e.g. @name@twitter.com are suppressed
-3. images contain alternative text
+3. images are described with alternative text
 
 ### Meta / Facebook
 Automatic mirroring from Facebook or Instagram is forbidden.
