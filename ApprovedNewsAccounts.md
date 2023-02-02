@@ -31,7 +31,6 @@ The following news sources have been reviewed and approved to post news stories 
 
 | Display Name  | Profile |
 | ------------- | ------------- |
-| Bylines Cymru | https://toot.wales/@BylinesCymru |
 | Golwg360 | https://toot.wales/@golwg |
 | Nation Cymru | https://toot.wales/@NationCymru |
 | North Wales Storms | https://toot.wales/@Storms |
